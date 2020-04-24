@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'BEGIN',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'The Berkeley Gateway to Innovation is your portal to the innovation & entrepreneurship ecosystem of the University of California, Berkeley.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -16,12 +16,28 @@ module.exports = {
       },
     },
     {
+      // do we need this?
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
     },
+    {
+      resolve: `gatsby-source-rss-feed`,
+      options: {
+        url: `http://scet.berkeley.edu/feed/`,
+        name: `SCET`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data`,
+      },
+    },
+    "gatsby-transformer-json",
     {
       resolve: 'gatsby-source-filesystem',
       options: {

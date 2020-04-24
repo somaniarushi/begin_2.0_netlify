@@ -1,0 +1,4134 @@
+[
+    {
+        "id": 1,
+        "title": "Girls in Engineering",
+        "url": "http://gie.berkeley.edu",
+        "contact_email": "gie@berkeley.edu",
+        "desc": "Fun summer camps for middle school girls in the Bay Area to get a hands on experience in engineering. This immersive week-long program is a step into the exciting world of engineering where the kids will learn to collaborate and work on team projects. There will be career talks with industry professionals and there is an application process.",
+        "resource_email": "gie@berkeley.edu",
+        "resource_phone": "(510) 643-0694",
+        "address": "101 Sproul Hall, Berkeley, CA 94720",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": "2019-01-03T00:00:00.000Z",
+        "notes": "Prof. Claire Tomlin",
+        "funding_amount": "",
+        "location": "Bay Area",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:56.989Z",
+        "updated_at": "2019-05-01T03:34:56.989Z",
+        "types": [
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            },
+            {
+                "val": "Under-represented minority"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 1,
+                "resource_id": 1,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.159Z",
+                "updated_at": "2019-05-01T03:34:57.159Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Summer"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "Education \u0026 Learning"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Core Citris Seed Funding",
+        "url": "https://citris-uc.org/core-seed-funding/",
+        "contact_email": "seeds@citris-uc.org",
+        "desc": "Provides seed funding for research proposals that work on developing information technology to address societal issues. Total of $600,000 was dispersed in grants ranging from $40,000-$60,000 in 2019. Applicants apply online and report on progress after a year.",
+        "resource_email": "seeds@citris-uc.org",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "(convened by Prof. Tsu Jae King)",
+        "created_at": "2019-05-01T03:34:57.311Z",
+        "updated_at": "2019-05-01T03:34:57.311Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "CITRIS"
+            },
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            },
+            {
+                "val": "Davis"
+            },
+            {
+                "val": "Merced"
+            },
+            {
+                "val": "Santa Cruz"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 2,
+                "resource_id": 2,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.406Z",
+                "updated_at": "2019-05-01T03:34:57.406Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research-Academia"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Hispanic Engineers and Scientists (HES)",
+        "url": "https://callink.berkeley.edu/organization/hispanicengineersscientists",
+        "contact_email": "hesberkeley8@gmail.com",
+        "desc": "Community for Hispanic Engineers and Scientists to connect with other fellow STEM oriented students of Hispanic origin. Hosts on campus networking events as well as opportunities to talk and connect with faculty.",
+        "resource_email": "hesberkeley8@gmail.com",
+        "resource_phone": "",
+        "address": "222 Bechtel Engineering Center MC1702 Berkeley, CA 94720",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:57.467Z",
+        "updated_at": "2019-05-01T03:34:57.467Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of Latin American descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 3,
+                "resource_id": 3,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.517Z",
+                "updated_at": "2019-05-01T03:34:57.517Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Graduate Women in Engineering (GWE)",
+        "url": "http://gwe.berkeley.edu/",
+        "contact_email": "gradswe@berkeley.edu",
+        "desc": "Primary purpose is to support all graduate engineering women (in body, spirit or identity — past, present, future, and fluid) in all their engineering endeavors. Throughout the year a number of informal events are held to allow women engineers (and those who support women in engineering) to welcome new students, network, share experiences, develop study groups, discuss issues and just socialize. Always looking for new faces to join us and welcome any suggestions for new events.",
+        "resource_email": "gradswe@berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:57.572Z",
+        "updated_at": "2019-05-01T03:34:57.572Z",
+        "types": [
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 4,
+                "resource_id": 4,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.627Z",
+                "updated_at": "2019-05-01T03:34:57.627Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Association of Women in EECS (AWE)",
+        "url": "https://awe.berkeley.edu/",
+        "contact_email": "anais.miller@berkeley.edu",
+        "desc": "AWE is a student-run organization at UC Berkeley that supports undergraduate women interested in CS and EE. AWE hosts various academic, social, and outreach events throughout the academic year. Some events include networking events/info-sessions with companies, peer-to-peer mentorship, and midterm review sessions.",
+        "resource_email": "aweberkeley@gmail.com",
+        "resource_phone": "",
+        "address": "286 Cory, Cory Hall",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "https://www.linkedin.com/company/aweberkeley/",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:57.704Z",
+        "updated_at": "2019-05-01T03:34:57.704Z",
+        "types": [
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 5,
+                "resource_id": 5,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.758Z",
+                "updated_at": "2019-05-01T03:34:57.758Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "Education \u0026 Learning"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Berkeley STEM Equity and Inclusion Initiative",
+        "url": "http://diversity.berkeley.edu/campus-climate/stem-equity-and-inclusion-initiative",
+        "contact_email": "fmejia@berkeley.edu",
+        "desc": "The STEM Equity \u0026 Inclusion Initiative seeks to advance partnerships in equity, inclusion, and diversity with STEM academic units to ensure student and research success. Has collected database and released report analyzing the database of programs that support the promotion of STEM on/closely related to the UC Berkeley campus.",
+        "resource_email": "vcei@berkeley.edu",
+        "resource_phone": "(510) 642-7294",
+        "address": "104 California Hall, #1500 Berkeley, CA 94720-1500",
+        "contact_name": "Fabrizio Mejia",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "Initiative sponsored by UC Berkeley, works mostly in data collection/analysis to spread awareness of programs. Fundamentally similar path to the WITI initiative.",
+        "funding_amount": "",
+        "location": "UC Berkeley,Bay Area",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:57.835Z",
+        "updated_at": "2019-05-01T03:34:57.835Z",
+        "types": [
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            },
+            {
+                "val": "Staff"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            },
+            {
+                "val": "Under-represented minority"
+            },
+            {
+                "val": "First generation college students"
+            },
+            {
+                "val": "Veterans"
+            },
+            {
+                "val": "U.S. Citizen"
+            },
+            {
+                "val": "Non-U.S. Citizen"
+            },
+            {
+                "val": "Indigenous peoples "
+            },
+            {
+                "val": "Multiracial people"
+            },
+            {
+                "val": " People of African descent "
+            },
+            {
+                "val": "People with Disabilities"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 6,
+                "resource_id": 6,
+                "val": "",
+                "created_at": "2019-05-01T03:34:57.905Z",
+                "updated_at": "2019-05-01T03:34:57.905Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Phi Sigma Rho - Female Engineering/STEM sorority",
+        "url": "http://berkeley.phisigmarho.org",
+        "contact_email": "calphirho@gmail.com",
+        "desc": "Close knit sorority of female engineers that operate on the core values of friendship, scholarship, and encouragement. Offers a community that boasts a powerful alumni network as well as a lifelong support group of peer mentors.",
+        "resource_email": "calphirho@gmail.com",
+        "resource_phone": "513-687-7289",
+        "address": "432 Eshleman Hall 2465 Bancroft Way",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.036Z",
+        "updated_at": "2019-05-01T03:34:58.036Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 7,
+                "resource_id": 7,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.086Z",
+                "updated_at": "2019-05-01T03:34:58.086Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Fall"
+            },
+            {
+                "val": "Spring"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Black Graduate Engineering and Science Students",
+        "url": "https://www.facebook.com/groups/974184169286805/",
+        "contact_email": "cbiaou@berkeley.edu",
+        "desc": "BGESS was founded in 1987 by a group of African American graduate students enrolled at U.C. Berkeley. BGESS has dedicated itself to the nurturing of academic and social support systems for students of African Heritage, whose contributions to the fields of Graduate Engineering and Physical Sciences have been historically underrepresented or denied. They provide information about applying to Cal, historic contributions by Black scientists and engineers, and Future Black Faculty Database.",
+        "resource_email": "",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.140Z",
+        "updated_at": "2019-05-01T03:34:58.140Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of African descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 8,
+                "resource_id": 8,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.183Z",
+                "updated_at": "2019-05-01T03:34:58.183Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Women in Computer Science and Engineering",
+        "url": "http://www-inst.eecs.berkeley.edu/~wicse/?_ga=2.67331537.19290003.1551058960-1317627104.1517111811",
+        "contact_email": "wicse_all@lists.berkeley.edu",
+        "desc": "Organization that allows female graduate students studying computer science and engineering to form a community on campus. The organization often organizes mixer lunches and brings industry representatives over for tech talks and networking regularly. Largely involved with community service and fostering the development of women, from mentoring Girl Scouts to organizing groups to participate in women marches in the city.",
+        "resource_email": "wicse_all@lists.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.243Z",
+        "updated_at": "2019-05-01T03:34:58.243Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 9,
+                "resource_id": 9,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.287Z",
+                "updated_at": "2019-05-01T03:34:58.287Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Queers in Computer Science and Engineering",
+        "url": "http://qicse.cs.berkeley.edu/?_ga=2.142764533.19290003.1551058960-1317627104.1517111811",
+        "contact_email": "hcook@eecs.berkeley.edu",
+        "desc": "QICSE is the organization of queer graduate students in Computer Science and Electrical Engineering at the University of California at Berkeley. QICSE is a social group that supports gay, lesbian, bisexual, transgender, intersex, questioning, or queer grad students and their allies within the EECS department by offering them opportunities to connect to each other and with the broader campus community.",
+        "resource_email": "qicse@lists.eecs.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "Henry Cook",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.354Z",
+        "updated_at": "2019-05-01T03:34:58.354Z",
+        "types": [
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "LGTBQA+"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 10,
+                "resource_id": 10,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.397Z",
+                "updated_at": "2019-05-01T03:34:58.397Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Committee on the Status of Women in Computing Research",
+        "url": "https://cra.org/cra-w/",
+        "contact_email": "crawinfo@cra.org",
+        "desc": "Organization dedicated to increasing success and participation of women in computing research. Offers paid research gigs at universities as well as mentoring and events for undergraduates. Also offers volunteering/mentorship opportunities and career guidance for grad students and academia professionals in the early years. Women engineers studying Information Security can apply for scholarships that range from $5000-$10,000.",
+        "resource_email": "crawinfo@cra.org",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.451Z",
+        "updated_at": "2019-05-01T03:34:58.451Z",
+        "types": [
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            },
+            {
+                "val": "Mentoring"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            },
+            {
+                "val": "Alumni"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 11,
+                "resource_id": 11,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.508Z",
+                "updated_at": "2019-05-01T03:34:58.508Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": "\"Networks"
+            },
+            {
+                "val": " Internet of Things"
+            },
+            {
+                "val": " Cyber Security\""
+            },
+            {
+                "val": "\"Computing"
+            },
+            {
+                "val": " Big Data"
+            },
+            {
+                "val": " \u0026 Quantum Computing\""
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "ACM Richard Tapia Celebration of Diversity in Computing",
+        "url": "http://tapiaconference.org/",
+        "contact_email": "http://tapiaconference.org/about/contact",
+        "desc": "3 day conference dedicated to celebrate the diversity that exists in computing where participants can: 1. Connect with others with common backgrounds, ethnicities, disabilities, and gender so as to create communities that extend beyond the conference 2. Obtain advice from and make contacts with computing leaders in academia and industry; 3. Be inspired by great presentations and conversations with leaders with common backgrounds.",
+        "resource_email": "",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": "2019-11-03T00:00:00.000Z",
+        "notes": "2019 Conference in San Diego from September 18-21",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.617Z",
+        "updated_at": "2019-05-01T03:34:58.617Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            },
+            {
+                "val": "Alumni"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Under-represented minority"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 12,
+                "resource_id": 12,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.679Z",
+                "updated_at": "2019-05-01T03:34:58.679Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "Education \u0026 Learning"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Adobe Research Women-in-Technology",
+        "url": "https://research.adobe.com/scholarship/",
+        "contact_email": "adoberesearchwebmaster@adobe.com",
+        "desc": "$10,000 scholarship for undergraduate or masters female students anywhere in the world studying computer science. Award also comes with one year of Adobe creative cloud subscription, a personal mentor, and a guaranteed interview for an internship at Adobe.",
+        "resource_email": "adoberesearchwebmaster@adobe.com",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "deadline for 2019 passed",
+        "funding_amount": "",
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.728Z",
+        "updated_at": "2019-05-01T03:34:58.728Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            },
+            {
+                "val": "Mentoring"
+            },
+            {
+                "val": "Job \u0026 Internship"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 13,
+                "resource_id": 13,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.780Z",
+                "updated_at": "2019-05-01T03:34:58.780Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Out in Science, Technology, Engineering and Mathematics",
+        "url": "http://berkeley.ostem.org/",
+        "contact_email": "ostem.berkeley@gmail.com",
+        "desc": "Aims to unite LGBTQ+ students studying STEM to foster a strong professional and social network and to promote LGBTQ+ awareness within the academic and professional communities. Weekly meetings Monday at 7pm.",
+        "resource_email": "ostem.berkeley@gmail.com",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.869Z",
+        "updated_at": "2019-05-01T03:34:58.869Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "LGTBQA+"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 14,
+                "resource_id": 14,
+                "val": "",
+                "created_at": "2019-05-01T03:34:58.921Z",
+                "updated_at": "2019-05-01T03:34:58.921Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "SMART Mentoring",
+        "url": "https://smart.berkeley.edu/",
+        "contact_email": "smartmentoring@berkeley.edu",
+        "desc": "Student Mentoring and Research Teams (SMART) is a program that enables doctoral students to create mentored research opportunities for undergraduate students at UC Berkeley. The program provides summer funding for both graduate and undergraduate participants and opportunities to share research results on campus and at national conferences. Also teaches a class in the spring semester (GSPDP 301: Mentoring in Higher Education) that introduces graduate students to the process of mentoring.",
+        "resource_email": "smartmentoring@berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:58.977Z",
+        "updated_at": "2019-05-01T03:34:58.977Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 15,
+                "resource_id": 15,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.031Z",
+                "updated_at": "2019-05-01T03:34:59.031Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Summer"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research-Academia"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Chancellor's Award for Advancing Institutional Excellence and Equity",
+        "url": "https://diversity.berkeley.edu/programs-services/grants-awards/chancellors-award-advancing-institutional-excellence-and-equity",
+        "contact_email": "ascharf@berkeley.edu",
+        "desc": "$10,000 grant awarded to UC Berkeley faculty who have demonstrated a commitment to excellence by providing leadership to advance equitable access to education, address the needs of California's diverse population through public service, or highlight inequalities through rigorous scholarly research. Faculty members must be nominated with four letters of recommendation, including from a fellow faculty member and a dean, as well as a curriculum vitae.",
+        "resource_email": "ascharf@berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "Amy Scharf",
+        "contact_phone": "(510) 642-8844",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.094Z",
+        "updated_at": "2019-05-01T03:34:59.094Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Faculty"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Under-represented minority"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 16,
+                "resource_id": 16,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.229Z",
+                "updated_at": "2019-05-01T03:34:59.229Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "Education \u0026 Learning"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "The Coaching Fellowship",
+        "url": "https://www.tcfs.org/program/",
+        "contact_email": "hello@tcfs.org",
+        "desc": "Twice a year 6 month long program where promising young women leaders in the social sector are given 11 intensive coaching sessions over the course of the program to develop their leadership and professional skills. After the program, the participants get access to a network of 600+ women leaders striving to make positive social change.",
+        "resource_email": "hello@tcfs.org",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.301Z",
+        "updated_at": "2019-05-01T03:34:59.301Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 17,
+                "resource_id": 17,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.357Z",
+                "updated_at": "2019-05-01T03:34:59.357Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Spring"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "MPower Financing WOMEN IN STEM SCHOLARSHIP",
+        "url": "https://www.mpowerfinancing.com/women-in-stem/?utm_source=email\u0026utm_medium=email\u0026utm_campaign=universityadmin\u0026utm_term=stem\u0026utm_content=20191202--scholarship",
+        "contact_email": "https://www.mpowerfinancing.com/students-contact-us/",
+        "desc": "$5000 scholarship to female undergraduate student studying a STEM field. Application consists of an online application and two essays, and readers are looking for individuals who will make a significant impact in the STEM fields in their careers.",
+        "resource_email": "https://www.mpowerfinancing.com/students-contact-us/",
+        "resource_phone": "+1-202-417-3800",
+        "address": "1875 Connecticut Ave NW, 10th Flr Washington, DC 20009",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": "2019-01-05T00:00:00.000Z",
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States,Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.421Z",
+        "updated_at": "2019-05-01T03:34:59.421Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 18,
+                "resource_id": 18,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.479Z",
+                "updated_at": "2019-05-01T03:34:59.479Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Spring"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Next Generation Women Leaders award",
+        "url": "https://www.mckinsey.com/next-generation-women-leaders/ngwl-award",
+        "contact_email": "next-generation-women@mckinsey.com",
+        "desc": "Scholarship for female students outside North America. Recipients get 2000 euros, individual mentorship and support from McKinsey, and an invitation to visit a local McKinsey office.",
+        "resource_email": "next-generation-women@mckinsey.com",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.535Z",
+        "updated_at": "2019-05-01T03:34:59.535Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 19,
+                "resource_id": 19,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.585Z",
+                "updated_at": "2019-05-01T03:34:59.585Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Winter"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Zonta International Women in Technology Scholarship",
+        "url": "https://www.zonta.org/Global-Impact/Education/Women-in-Technology-Scholarship",
+        "contact_email": "zontaintl@zonta.org",
+        "desc": "This pilot program provides scholarships to women studying technology, focusing mainly on university students but also available to working adults. Zonta International Foundation will award up to US$112,000 in scholarships: 32 district/region scholarships of US$2,000 each and six international scholarships of US$8,000 each.",
+        "resource_email": "zontaintl@zonta.org",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": "2019-01-08T00:00:00.000Z",
+        "notes": "",
+        "funding_amount": "",
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.642Z",
+        "updated_at": "2019-05-01T03:34:59.642Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 20,
+                "resource_id": 20,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.709Z",
+                "updated_at": "2019-05-01T03:34:59.709Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            },
+            {
+                "val": "Summer"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "AMELIA EARHART FELLOWSHIP",
+        "url": "https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship",
+        "contact_email": "zontaintl@zonta.org",
+        "desc": "To assist the future of women in this field and other aerospace-related sciences and engineering, Zonta International established the Amelia Earhart Fellowship in 1938 in honor of legendary pilot and Zontian, Amelia Earhart. Today, the Fellowship of US$10,000 is awarded annually to up to 30 talented women, pursuing Ph.D./doctoral degrees in aerospace-related sciences or aerospace-related engineering around the globe.",
+        "resource_email": "zontaintl@zonta.org",
+        "resource_phone": "+1.630.928.1400",
+        "address": "1211 West 22nd Street  Suite 900  Oak Brook, IL 60523 USA",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.770Z",
+        "updated_at": "2019-05-01T03:34:59.770Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 21,
+                "resource_id": 21,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.821Z",
+                "updated_at": "2019-05-01T03:34:59.821Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Winter"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "Space"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Box Diversity Scholarship",
+        "url": "http://www.boxdiversityscholarship.com/",
+        "contact_email": "scholarship@box.com",
+        "desc": "Annual scholarships distributed to applicants, with focus on people of color, women, LGBTQ+, and people with disabilities. One $20,000 scholarship and 4 $4,000 scholarships distributed each cycle. Applicants must be enrolled in a four year university and studying a STEAM (science, technology, engineering, art, math) or related major.",
+        "resource_email": "scholarship@box.com",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "Seems to have been discontinued after 2017",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:34:59.874Z",
+        "updated_at": "2019-05-01T03:34:59.874Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            },
+            {
+                "val": "Under-represented minority"
+            },
+            {
+                "val": "LGTBQA+"
+            },
+            {
+                "val": "People with Disabilities"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 22,
+                "resource_id": 22,
+                "val": "",
+                "created_at": "2019-05-01T03:34:59.930Z",
+                "updated_at": "2019-05-01T03:34:59.930Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Winter"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Getting into Graduate School (GiGS) Mentors",
+        "url": "https://diversity.berkeley.edu/programs-services/graduate/office-graduate-diversity/getting-graduate-school/gigs-mentors",
+        "contact_email": "clv@berkeley.edu",
+        "desc": "Mentorship program where graduate students mentor 2-3 undergraduate students in helping preparing for graduate school. This includes help writing essays, perfecting resumes, and forming a plan for post-graduation. Dedicated to assisting first generation, underrepresented students.",
+        "resource_email": "gigs@berkeley.edu",
+        "resource_phone": "(510) 643-2103",
+        "address": "327 Sproul Hall Berkeley, CA 94720",
+        "contact_name": "Cynthia Ladd-Viti",
+        "contact_phone": "(510) 643-6010",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.021Z",
+        "updated_at": "2019-05-01T03:35:00.021Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Under-represented minority"
+            },
+            {
+                "val": "First generation college students"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 23,
+                "resource_id": 23,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.123Z",
+                "updated_at": "2019-05-01T03:35:00.123Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Fall"
+            },
+            {
+                "val": "Winter"
+            },
+            {
+                "val": "Spring"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "International Peer Mentorship Program",
+        "url": "https://internationaloffice.berkeley.edu/peer_mentorship",
+        "contact_email": "internationaloffice@berkeley.edu",
+        "desc": "Connects incoming international students (freshman and transfer) to a UC Berkeley student mentor who introduces the international students to the campus and points them to various opportunities to get more involved. Allows international students to participate in activities with their mentorship group and have a first community and point of contact at Cal.",
+        "resource_email": "internationaloffice@berkeley.edu",
+        "resource_phone": "510.642.2818",
+        "address": "2299 Piedmont Avenue Berkeley, CA 94720-2321",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.210Z",
+        "updated_at": "2019-05-01T03:35:00.210Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Non-U.S. Citizen"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 24,
+                "resource_id": 24,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.264Z",
+                "updated_at": "2019-05-01T03:35:00.264Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Fall"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Berkeley Staff Assembly (BSA) Mentorship Program",
+        "url": "https://bsa.berkeley.edu/committees-programs/mentorship-program",
+        "contact_email": "bsamentorship@berkeley.edu",
+        "desc": "Mentorship program that matches staff members who are looking to develop professionally to an experienced UC Berkeley staff member. Mentees and mentors meet at kickoff event and match based on preference lists submitted by both mentor and mentee. Program lasts a year, where the mentor and mentee regularly meet.",
+        "resource_email": "bsamentorship@berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.312Z",
+        "updated_at": "2019-05-01T03:35:00.312Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Staff"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 25,
+                "resource_id": 25,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.364Z",
+                "updated_at": "2019-05-01T03:35:00.364Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "UC Berkeley Faculty Mentoring",
+        "url": "https://vpf.berkeley.edu/faculty-mentoring/department-mentoring-programs",
+        "contact_email": "capps@berkeley.edu",
+        "desc": "Informal and formal mentorship for faculty members of UC Berkeley focusing on the development of junior faculty members. Faculty members who seek mentorship should email the respective department mentorship point of contact in the URL.",
+        "resource_email": "capps@berkeley.edu",
+        "resource_phone": "(510) 642-6474",
+        "address": "200 California Hall, MC 1500 Berkeley, CA 94720-1500",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.432Z",
+        "updated_at": "2019-05-01T03:35:00.432Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Faculty"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 26,
+                "resource_id": 26,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.487Z",
+                "updated_at": "2019-05-01T03:35:00.487Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "National Center for Women and Information Technology",
+        "url": "https://www.ncwit.org/",
+        "contact_email": "info@ncwit.org",
+        "desc": "Nationwide organization dedicated towards improving diversity in computing. Collaborates with corporations, schools, and nonprofits to provide resources to women in technology, from educational resources to community/mentorship programs to awards. Assists women through all stages of technology career, from grade school to university to professional.",
+        "resource_email": "info@ncwit.org",
+        "resource_phone": "303.735.6671",
+        "address": "National Center for Women \u0026 Information Technology (NCWIT) University of Colorado Campus Box 417 UCB Boulder, CO 80309",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.541Z",
+        "updated_at": "2019-05-01T03:35:00.541Z",
+        "types": [
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Training \u0026 Support"
+            },
+            {
+                "val": "Tools \u0026 Further Reading"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            },
+            {
+                "val": "Staff"
+            },
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 27,
+                "resource_id": 27,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.618Z",
+                "updated_at": "2019-05-01T03:35:00.618Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "One time"
+            },
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Girl Geek Dinner",
+        "url": "http://girlgeekdinners.com/",
+        "contact_email": "http://girlgeekdinners.com/contact-us",
+        "desc": "Worldwide organization that aims to nurture young females to succeed in a career in technology. Many chapters worldwide that organize local events targeting local K-12 schools and universities and identify routes around barriers that prevent people from getting into technology.",
+        "resource_email": "http://girlgeekdinners.com/contact-us",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.705Z",
+        "updated_at": "2019-05-01T03:35:00.705Z",
+        "types": [
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 28,
+                "resource_id": 28,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.752Z",
+                "updated_at": "2019-05-01T03:35:00.752Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Women in Science \u0026 Engineering Leadership Institute (WISELI)",
+        "url": "https://wiseli.wisc.edu/",
+        "contact_email": "wiseli@engr.wisc.edu",
+        "desc": "University of Wisconsin-Madison intitiative that aims to promote the involvement and advancement of women studying science and engineering. Offers resources ranging from workshops/guest lectures to grants for faculty members and scholarships for undergraduate students.",
+        "resource_email": "wiseli@engr.wisc.edu",
+        "resource_phone": "608-263-1445",
+        "address": "3065 Mechanical Engineering Building 1513 University Avenue Madison, WI 53706-1539",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.810Z",
+        "updated_at": "2019-05-01T03:35:00.810Z",
+        "types": [
+            {
+                "val": "Networks"
+            },
+            {
+                "val": "Training \u0026 Support"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            },
+            {
+                "val": "Under-represented minority"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 29,
+                "resource_id": 29,
+                "val": "",
+                "created_at": "2019-05-01T03:35:00.879Z",
+                "updated_at": "2019-05-01T03:35:00.879Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "UC Davis Feminist Research Institute",
+        "url": "https://fri.ucdavis.edu/",
+        "contact_email": "fri@ucdavis.edu",
+        "desc": "UC Davis initiative that aims to transform academic research by introducing social justice and gender equity into traditional research methodologies to foster more inclusive and nuanced findings that can reach new audiences. Their approach is known as feminist research. Provides events and funding dedicated towards advancing feminist research.",
+        "resource_email": "fri@ucdavis.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:00.986Z",
+        "updated_at": "2019-05-01T03:35:00.986Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            },
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            },
+            {
+                "val": "Under-represented minority"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Davis"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 30,
+                "resource_id": 30,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.054Z",
+                "updated_at": "2019-05-01T03:35:01.054Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research-Academia"
+            }
+        ],
+        "topics": [
+            {
+                "val": "\"Equality"
+            },
+            {
+                "val": " Human Rights"
+            },
+            {
+                "val": " \u0026 Justice\""
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Stanford Clayman Institute for Gender Research",
+        "url": "https://gender.stanford.edu",
+        "contact_email": "GENDER-EMAIL@STANFORD.EDU",
+        "desc": "Research Institute at Stanford University dedicated to gender research, inspiring innovative solutions that advance gender equality. Also provides fellowships and internships for students interested in the space to develop the next generation of passionate individuals  dedicated to closing existing gender gaps and discovering the insights necessary to gain an understanding of the causes and potential solutions of gender issues.",
+        "resource_email": "GENDER-EMAIL@STANFORD.EDU",
+        "resource_phone": "650-723-1994",
+        "address": "589 Capistrano Way Stanford, CA 94305",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "Bay Area",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.135Z",
+        "updated_at": "2019-05-01T03:35:01.135Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            },
+            {
+                "val": "Education \u0026 Awareness"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Faculty"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 31,
+                "resource_id": 31,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.196Z",
+                "updated_at": "2019-05-01T03:35:01.196Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research-Academia"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Center for Women in Technology (CWIT)",
+        "url": "https://cwit.umbc.edu/",
+        "contact_email": "cseaman@umbc.edu",
+        "desc": "Center for Women in Technology (CWIT) helps UMBC achieve its regional and national mission by identifying those areas in science, technology, and engineering where women are significantly underrepresented, attracting well-qualified female students to UMBC through special scholarship initiatives such as the CWIT Scholars Program, and working with departments and other campus partners to help make UMBC a welcoming place for women in engineering and information technology.",
+        "resource_email": "",
+        "resource_phone": "410-455-2822",
+        "address": "1000 Hilltop Circle, ITE452 Baltimore, MD 21250",
+        "contact_name": "Carolyn Seaman, Ph.D., Interim Director",
+        "contact_phone": "410-455-2822",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "United States",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.252Z",
+        "updated_at": "2019-05-01T03:35:01.252Z",
+        "types": [
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            },
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": ""
+            }
+        ],
+        "colleges": [
+            {
+                "id": 32,
+                "resource_id": 32,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.299Z",
+                "updated_at": "2019-05-01T03:35:01.299Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Jack Larson Scholarship-Graduate",
+        "url": "https://haas.berkeley.edu/financial-aid/full-time-mba/scholarships/",
+        "contact_email": "entrepreneurship@haas.berkeley.edu",
+        "desc": "The Jack Larson Fellowship is designed to assist entrepreneurs entering their second year of the full-time MBA program. Three recipients will be selected and each will receive $12,500. Application deadline for 2019 will be announced in March.  The question that will appear on the form: Please describe your career goals and entrepreneurial aspirations. Indicate how the fellowship will help you achieve your personal and professional goals. Limit response to 500 words.",
+        "resource_email": "entrepreneurship@haas.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "$12.5k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.353Z",
+        "updated_at": "2019-05-01T03:35:01.353Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            },
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 33,
+                "resource_id": 33,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.398Z",
+                "updated_at": "2019-05-01T03:35:01.398Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Startups"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Gloria W. Appel Award",
+        "url": "https://entrepreneurship.berkeley.edu/fellowships/",
+        "contact_email": "entrepreneurship@haas.berkeley.edu",
+        "desc": "The Gloria W. Appel Award for Outstanding Leadership in Entrepreneurship is presented upon nomination by the Haas School community to a second-year MBA candidate of outstanding caliber who has made an extraordinary and lasting contribution to the entrepreneurship program at Haas. A $5,000 fellowship accompanies the award.",
+        "resource_email": "entrepreneurship@haas.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "$5k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.449Z",
+        "updated_at": "2019-05-01T03:35:01.449Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            },
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 34,
+                "resource_id": 34,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.489Z",
+                "updated_at": "2019-05-01T03:35:01.489Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Startups"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Jack Larson Scholarship-Undergraduate",
+        "url": "https://entrepreneurship.berkeley.edu/larson-scholarships/",
+        "contact_email": "entrepreneurship@haas.berkeley.edu",
+        "desc": "For the 2018-19 academic year, three to five awards of $2500 will be given to outstanding undergraduate students interested in entrepreneurship and who have shown a great need for support because of family hardship or who have overcome obstacles to be admitted to Haas. A faculty and staff committee will make the selections based on academic achievements, entrepreneurial experience, career goals, and financial need.",
+        "resource_email": "entrepreneurship@haas.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "$2.5k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.564Z",
+        "updated_at": "2019-05-01T03:35:01.564Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            },
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Under-represented minority"
+            },
+            {
+                "val": "Low Income"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 35,
+                "resource_id": 35,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.627Z",
+                "updated_at": "2019-05-01T03:35:01.627Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Startups"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Turner Fellowship",
+        "url": "https://haas.berkeley.edu/financial-aid/evening-weekend-mba/haas-scholarships/continuing-students/",
+        "contact_email": "entrepreneurship@haas.berkeley.edu",
+        "desc": "Provided by the generosity of Daniel Turner III,Managing Director of Montreux Equity Partners. A $5,000 annual award will be given to a deserving Evenig- Weekend MBA candidate, who has demonstrated a commitment to an entrereneurial career.",
+        "resource_email": "entrepreneurship@haas.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "$5k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.699Z",
+        "updated_at": "2019-05-01T03:35:01.699Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 36,
+                "resource_id": 36,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.771Z",
+                "updated_at": "2019-05-01T03:35:01.771Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Startups"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "John E. Martin Fellowship",
+        "url": "https://entrepreneurship.berkeley.edu/fellowships/",
+        "contact_email": "entrepreneurship@haas.berkeley.edu",
+        "desc": "The purpose of the fellowship is to provide support for high-achieving MBA, MPH and/or MSW students at UC Berkeley who demonstrate through 1) a student-initiated business/startup or 2) a summer internship commitment to improving the quality of and the access to mental healthcare. Up to two (2) fellowships of $5,000 will be awarded each year.",
+        "resource_email": "entrepreneurship@haas.berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "$5k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.846Z",
+        "updated_at": "2019-05-01T03:35:01.846Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 37,
+                "resource_id": 37,
+                "val": "",
+                "created_at": "2019-05-01T03:35:01.904Z",
+                "updated_at": "2019-05-01T03:35:01.904Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Startups"
+            }
+        ],
+        "topics": [
+            {
+                "val": "Health \u0026 Biotech"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Allan Sharlin Memorial Award",
+        "url": "https://iis.berkeley.edu/funding-opportunities/allan-sharlin-memorial-award",
+        "contact_email": "iis.grants@berkeley.edu",
+        "desc": "This award commemorates the scholarly achievements of the late Allan Sharlin, Professor of Sociology and an innovative scholar in the fields of demography and history at UC Berkeley. The award is made annually to students who show promise of advancing scholarship in the field of historical sociology, historical demography, or social history.",
+        "resource_email": "iis.grants@berkeley.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "4-page dissertation proposal narrative",
+        "funding_amount": "$15k",
+        "location": "UC Berkeley",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:01.961Z",
+        "updated_at": "2019-05-01T03:35:01.961Z",
+        "types": [
+            {
+                "val": "Funding \u0026 Grants"
+            },
+            {
+                "val": "Fellowships \u0026 Scholarships"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "BearX.co"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 38,
+                "resource_id": 38,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.006Z",
+                "updated_at": "2019-05-01T03:35:02.006Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": ""
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Advance Program",
+        "url": "ucd-advance.ucdavis.edu",
+        "contact_email": "advance@ucdavis.edu",
+        "desc": "UC Davis ADVANCE is an Institutional Transformation grant that began in September of 2012. The program is supported by the National Science Foundation’s ADVANCE Program which aims to increase the participation and advancement of women in academic science and engineering careers. Main initiatives include recruiting talented faculty and staff members that will promote a diverse STEM environment, providing support through training, mentorship, and awards.",
+        "resource_email": "advance@ucdavis.edu",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.080Z",
+        "updated_at": "2019-05-01T03:35:02.080Z",
+        "types": [
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Mentoring"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Other"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "Women"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Davis"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 39,
+                "resource_id": 39,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.124Z",
+                "updated_at": "2019-05-01T03:35:02.124Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research-Academia"
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Black Engineers Association (BEA)",
+        "url": "http://ucdbea.com",
+        "contact_email": "UCDBEA.PROGRAMSCHAIR@GMAIL.COM",
+        "desc": "Founded in the 1960's, the Black Engineers Association at the University of California, Davis (UC Davis) is a premier organization for Black students in the STEM fields.  BEA aids in the recruitment, retention and academic success of Black students in the College of Engineering through holding networking events, community service, and inviting guest speakers.",
+        "resource_email": "UCDBEA.PRESIDENT@GMAIL.COM",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.201Z",
+        "updated_at": "2019-05-01T03:35:02.201Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            },
+            {
+                "val": "Training \u0026 Support"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of African descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Davis"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 40,
+                "resource_id": 40,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.247Z",
+                "updated_at": "2019-05-01T03:35:02.247Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "title": "CALESS",
+        "url": "https://calessucd.wixsite.com/calessucd",
+        "contact_email": "caless.communications@gmail.com",
+        "desc": "Community of students in STEM that help each other thrive academically, professionally, and socially with the goal to better serve the Chicanx and Latinx community. Main activities include workshops, buddy system, STEM field day for minority middle/high school students, and Industry Tours",
+        "resource_email": "caless.communications@gmail.com",
+        "resource_phone": "",
+        "address": "University of California, Davis  1 Shields Ave  Davis, CA 95616",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.326Z",
+        "updated_at": "2019-05-01T03:35:02.326Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of Latin American descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Davis"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 41,
+                "resource_id": 41,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.372Z",
+                "updated_at": "2019-05-01T03:35:02.372Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "STEM Resource Center",
+        "url": "stemresourcecenter.ucmerced.edu",
+        "contact_email": "pgueorguieva@ucmerced.edu",
+        "desc": "A STEM Resource Center in UC Merced. Provides peer tutor/mentor programs to assist students in STEM related classes and professional choices. Connects undergraduates with faculty members and graduate students. Provides research-related networking and internship opportunities.  Provides undergraduate students with opportunities for participation and leadership in science, technology and engineering community outreach. Acquires external funding to distribute to students and faculty.",
+        "resource_email": "stemresourcecenter@ucmerced.edu",
+        "resource_phone": "",
+        "address": "Academic Office Annex (AOA) 114",
+        "contact_name": "Petia Gueorguieva, PhD  STEM Resource Center Coordinator",
+        "contact_phone": "(209) 228-3037",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.423Z",
+        "updated_at": "2019-05-01T03:35:02.423Z",
+        "types": [
+            {
+                "val": "Mentoring"
+            },
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Training \u0026 Support"
+            },
+            {
+                "val": "Networks"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": ""
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Merced"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 42,
+                "resource_id": 42,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.470Z",
+                "updated_at": "2019-05-01T03:35:02.470Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Ingenieros Unidos",
+        "url": "https://catlife.ucmerced.edu/organization/IngenierosUnidos",
+        "contact_email": "iushpe@ucmerced.edu",
+        "desc": "A student chapter of The Society of Hispanic Professional Engineers (SHPE).  It aims to aid each other in developing the skills needed to succeed in college and in the professional workplace. Its goal is to serve its members and form an ever lasting bond of brotherhood where everyone is equal and able to share their experiences to the community.  Main activities include workshop, networking and social events",
+        "resource_email": "iushpe@ucmerced.edu",
+        "resource_phone": "209-228-4400",
+        "address": "5200 Lake Rd Merced, CA 95340 United States",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.539Z",
+        "updated_at": "2019-05-01T03:35:02.539Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of Latin American descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Merced"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 43,
+                "resource_id": 43,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.585Z",
+                "updated_at": "2019-05-01T03:35:02.585Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "National Society of Black Engineers (UC Merced)",
+        "url": "https://ucmerced.campuslabs.com/engage/organization/nsbe",
+        "contact_email": "ucm.nsbe@gmail.com",
+        "desc": "A chapter of National Society of Black Engineers at UC Merced.    The Mission: To increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.",
+        "resource_email": "ucm.nsbe@gmail.com",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.635Z",
+        "updated_at": "2019-05-01T03:35:02.635Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of African descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Merced"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 44,
+                "resource_id": 44,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.679Z",
+                "updated_at": "2019-05-01T03:35:02.679Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "title": "National Society of Black Engineers (UC Santa Cruz)",
+        "url": "https://nsbe.soe.ucsc.edu/node/10",
+        "contact_email": "nsbe.ucsc@gmail.com.",
+        "desc": "A chapter of National Society of Black Engineers at UC Santa Cruz.",
+        "resource_email": "nsbe.ucsc@gmail.com.",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": "",
+        "location": "California",
+        "approval_status": 1,
+        "approved_by": "",
+        "flagged": null,
+        "flagged_comment": "",
+        "created_at": "2019-05-01T03:35:02.727Z",
+        "updated_at": "2019-05-01T03:35:02.727Z",
+        "types": [
+            {
+                "val": "Student Groups"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": ""
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "People of African descent"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Santa Cruz"
+            },
+            {
+                "val": "San Francisco"
+            }
+        ],
+        "colleges": [
+            {
+                "id": 45,
+                "resource_id": 45,
+                "val": "",
+                "created_at": "2019-05-01T03:35:02.787Z",
+                "updated_at": "2019-05-01T03:35:02.787Z"
+            }
+        ],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": ""
+            }
+        ],
+        "topics": [
+            {
+                "val": "General"
+            }
+        ],
+        "technologies": [
+            {
+                "val": ""
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "title": "test",
+        "url": "test",
+        "contact_email": "test",
+        "desc": "test",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-01T20:16:46.784Z",
+        "updated_at": "2019-05-01T20:16:46.784Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 47,
+        "title": "test2",
+        "url": "testt",
+        "contact_email": "test2",
+        "desc": "test",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 1,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-01T23:14:22.955Z",
+        "updated_at": "2019-05-01T23:14:22.955Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 48,
+        "title": "test4",
+        "url": "adsfds",
+        "contact_email": "test3",
+        "desc": "te",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "USA",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-01T23:14:49.385Z",
+        "updated_at": "2019-05-01T23:15:10.673Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Everyone"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 49,
+        "title": "approve me",
+        "url": "adfs",
+        "contact_email": "approve",
+        "desc": "dsaf",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "USA",
+        "approval_status": 1,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-01T23:16:17.681Z",
+        "updated_at": "2019-05-01T23:16:17.681Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 50,
+        "title": "yese",
+        "url": "ey",
+        "contact_email": "yes",
+        "desc": "yes",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-01T23:16:47.208Z",
+        "updated_at": "2019-05-02T18:16:57.226Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 51,
+        "title": "Committee on the Status of Women in Computing Research",
+        "url": "https://cra.org/cra-w/",
+        "contact_email": "test",
+        "desc": "Description: Organization dedicated to increasing success and participation of women in computing research. Offers paid research gigs at universities as well as mentoring and events for undergraduates. Also offers volunteering/mentorship opportunities and career guidance for grad students and academia professionals in the early years. Women engineers studying Information Security can apply for scholarships that range from $5000-$10,000.",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-02T18:18:08.753Z",
+        "updated_at": "2019-05-15T20:14:23.011Z",
+        "types": [
+            {
+                "val": "Events"
+            },
+            {
+                "val": "Mentoring"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 52,
+        "title": "Out in Science, Technology, Engineering and Mathematics",
+        "url": "http://berkeley.ostem.org/",
+        "contact_email": "test",
+        "desc": "Aims to unite LGBTQ+ students studying STEM to foster a strong professional and social network and to promote LGBTQ+ awareness within the academic and professional communities. Weekly meetings Monday at 7pm.",
+        "resource_email": null,
+        "resource_phone": null,
+        "address": null,
+        "contact_name": "",
+        "contact_phone": "",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Berkeley",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-02T18:18:48.558Z",
+        "updated_at": "2019-05-15T20:14:23.037Z",
+        "types": [
+            {
+                "val": "Education \u0026 Awareness"
+            },
+            {
+                "val": "Funding \u0026 Grants"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            },
+            {
+                "val": "Graduate Student"
+            },
+            {
+                "val": "Everyone"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    },
+    {
+        "id": 53,
+        "title": "Example Resource",
+        "url": "http://resource.com",
+        "contact_email": "andrewlaw8@gmail.com",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "resource_email": "andrewlaw8@gmail.com",
+        "resource_phone": "8185328182",
+        "address": "2726 Channing Way",
+        "contact_name": "Andrew",
+        "contact_phone": "8185328182",
+        "deadline": "2019-05-07T00:00:00.000Z",
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-13T18:36:59.878Z",
+        "updated_at": "2019-05-15T20:14:23.057Z",
+        "types": [
+            {
+                "val": "Investors for Equity, VCs"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Women"
+            }
+        ],
+        "client_tags": [
+            {
+                "val": "WITI"
+            }
+        ],
+        "population_focuses": [
+            {
+                "val": "LGTBQA+"
+            }
+        ],
+        "campuses": [
+            {
+                "val": "Berkeley"
+            }
+        ],
+        "colleges": [],
+        "availabilities": [
+            {
+                "val": "Rolling"
+            }
+        ],
+        "innovation_stages": [
+            {
+                "val": "Research"
+            }
+        ],
+        "topics": [
+            {
+                "val": "Social Impact"
+            }
+        ],
+        "technologies": [
+            {
+                "val": "Internet of Things"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "test",
+        "url": "test",
+        "contact_email": "abfranco@berkeley.edu",
+        "desc": "test",
+        "resource_email": "",
+        "resource_phone": "",
+        "address": "",
+        "contact_name": "Antonio",
+        "contact_phone": "9162305946",
+        "deadline": null,
+        "notes": "",
+        "funding_amount": null,
+        "location": "Global",
+        "approval_status": 200,
+        "approved_by": null,
+        "flagged": null,
+        "flagged_comment": null,
+        "created_at": "2019-05-15T20:11:56.578Z",
+        "updated_at": "2019-05-15T20:14:23.073Z",
+        "types": [
+            {
+                "val": "Events"
+            }
+        ],
+        "audiences": [
+            {
+                "val": "Undergraduate Student"
+            }
+        ],
+        "client_tags": [],
+        "population_focuses": [],
+        "campuses": [],
+        "colleges": [],
+        "availabilities": [],
+        "innovation_stages": [],
+        "topics": [],
+        "technologies": []
+    }
+]
