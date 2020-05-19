@@ -5955,6 +5955,14 @@ faye-websocket@~0.11.0, faye-websocket@~0.11.1:
   dependencies:
     websocket-driver ">=0.5.1"
 
+fbgraph@^1.4.4:
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/fbgraph/-/fbgraph-1.4.4.tgz#9bf45c6666152938c2592174385c5540608fcc4a"
+  integrity sha1-m/RcZmYVKTjCWSF0OFxVQGCPzEo=
+  dependencies:
+    qs "^6.5.0"
+    request "^2.79.0"
+
 fbjs@^0.8.9:
   version "0.8.17"
   resolved "https://registry.yarnpkg.com/fbjs/-/fbjs-0.8.17.tgz#c4d598ead6949112653d6588b01a5cdcd9f90fdd"
@@ -6828,6 +6836,13 @@ gatsby-remark-relative-images@^0.3.0:
     lodash "^4.17.15"
     slash "^2.0.0"
     unist-util-select "^1.5.0"
+
+gatsby-source-facebook@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-source-facebook/-/gatsby-source-facebook-2.0.1.tgz#4e7881afea898665c2db1decc257569b069cf356"
+  integrity sha512-f+m2IILhkGj/WJxCx6gXa7dTLWowAnIBAIh4aDpaQ+hY1bJCwUvkebV84aU9QXdgl7rnzhBuQ3ijVDf4FvrN4g==
+  dependencies:
+    fbgraph "^1.4.4"
 
 gatsby-source-filesystem@^2.0.26:
   version "2.2.4"
@@ -12546,6 +12561,11 @@ qs@6.7.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
+qs@^6.5.0:
+  version "6.9.4"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.4.tgz#9090b290d1f91728d3c22e54843ca44aea5ab687"
+  integrity sha512-A1kFqHekCTM7cz0udomYUoYNWjBebHm/5wzU/XqrBRBNWectVH0QIiN+NEcZ0Dte5hvzHwbr8+XQmguPhJ6WdQ==
+
 qs@~6.5.2:
   version "6.5.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
@@ -13562,7 +13582,7 @@ replace-ext@1.0.0, replace-ext@^1.0.0:
   resolved "https://registry.yarnpkg.com/replace-ext/-/replace-ext-1.0.0.tgz#de63128373fcbf7c3ccfa4de5a480c45a67958eb"
   integrity sha1-3mMSg3P8v3w8z6TeWkgMRaZ5WOs=
 
-request@^2.83.0, request@^2.87.0, request@^2.88.0:
+request@^2.79.0, request@^2.83.0, request@^2.87.0, request@^2.88.0:
   version "2.88.2"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.2.tgz#d73c918731cb5a87da047e207234146f664d12b3"
   integrity sha512-MsvtOrfG9ZcrOwAW+Qi+F6HbD0CWXEh9ou77uOb7FM2WPhwT7smM833PzanhJLsgXjN89Ir6V2PczXNnMpwKhw==

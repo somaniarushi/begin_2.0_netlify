@@ -76,9 +76,9 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-facebook`,
+      resolve: 'gatsby-source-facebook',
       options: {
-        places: [`facebook.com/arushi.somani.1`], // Can be either a numeric ID or the URL ID
+        places: ['facebook.com/arushi.somani.1'], // Can be either a numeric ID or the URL ID
         params: {
           fields: 'hours, posts { message, created_time }', // See Facebooks API to see what you can query for
         },
