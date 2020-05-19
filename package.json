@@ -8,7 +8,7 @@
     "bulma": "^0.8.0",
     "fs": "^0.0.1-security",
     "gatsby": "^2.21.33",
-    "gatsby-cli": "^2.12.21",
+    "gatsby-cli": "^2.12.25",
     "gatsby-image": "^2.0.23",
     "gatsby-plugin-netlify": "^2.0.6",
     "gatsby-plugin-netlify-cms": "^4.1.6",

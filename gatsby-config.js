@@ -76,6 +76,17 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-facebook`,
+      options: {
+        places: [`facebook.com/arushi.somani.1`], // Can be either a numeric ID or the URL ID
+        params: {
+          fields: 'hours, posts { message, created_time }', // See Facebooks API to see what you can query for
+        },
+        key: 281386496369309, // You will need to create a Facebook application and go through review in order to get an API token.
+        version: '5.0', // The version of the graph API to use. Defaults to 5.0
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
