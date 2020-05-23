@@ -6837,6 +6837,13 @@ gatsby-remark-relative-images@^0.3.0:
     slash "^2.0.0"
     unist-util-select "^1.5.0"
 
+gatsby-source-facebook-graphql@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-source-facebook-graphql/-/gatsby-source-facebook-graphql-0.0.2.tgz#2e23962e2a7edf00ac6700397966abc312487298"
+  integrity sha512-Xbsc7fjY/ohzNDYTlWR6kLc1iQfaKVxYy6JeHCb2ly18Sr7yQjcCc5JjxzVnydjMM2v/Q5wOBgEdw0vJBnPtQg==
+  dependencies:
+    fbgraph "^1.4.4"
+
 gatsby-source-facebook@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/gatsby-source-facebook/-/gatsby-source-facebook-2.0.1.tgz#4e7881afea898665c2db1decc257569b069cf356"

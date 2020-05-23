@@ -31,6 +31,31 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-source-facebook`,
+      options: {
+        places: [`https://www.facebook.com/berkeleystep1`], // Can be either a numeric ID or the URL ID
+        params: {
+          fields: 'hours, posts { message, created_time }', // See Facebooks API to see what you can query for
+        },
+        key: 'abcd', // You will need to create a Facebook application and go through review in order to get an API token.
+        version: '7.0', // The version of the graph API to use. Defaults to 5.0
+      },
+    },
+    {
+      resolve: `gatsby-source-facebook-graphql`,
+      options: {
+        // Facebook account or page ID
+        pageId: 'https://www.facebook.com/berkeleystep1',
+        params: {
+          fields: [
+            'posts',
+          ],
+        },
+        // Access Token from facebook
+        accessToken: 'EAADZC62YpIp0BANvUuZA0XE6CCrxuVkdl4JyAqF5KQkXr4hDFZAJsxQXGhyHnQtEnQOX0bKDTxfYs5HtmxKC43aqoBMOL8Fwnh7UntcggkQexMkFNkBcZBtdKumCqx4xBzlvZBW9aN3r3ZB01WLFW1iEHNpPZC64E5q0fgYbiIXKgZDZD',
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `data`,
@@ -73,17 +98,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: 'gatsby-source-facebook',
-      options: {
-        places: ['facebook.com/arushi.somani.1'], // Can be either a numeric ID or the URL ID.
-        params: {
-          fields: 'hours, posts { message, created_time }', // See Facebooks API to see what you can query for
-        },
-        key: 281386496369309, // You will need to create a Facebook application and go through review in order to get an API token.
-        version: '5.0', // The version of the graph API to use. Defaults to 5.0
       },
     },
     {
