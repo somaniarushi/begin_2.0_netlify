@@ -1,6 +1,8 @@
-# Gatsby + Netlify CMS Starter
+# Begin
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+
+## PRIVACY POLICY: We only read content on feeds of public pages and display them onto our website. We do not use any page's metadata.
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
